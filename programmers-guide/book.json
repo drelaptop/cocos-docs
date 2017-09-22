@@ -7,25 +7,15 @@
         "anchorjs",
         "toggle-chapters",
         "sharing",
-        "editlink"        
+        "edit-link"     
     ],
     "styles": {
         "website": "./styles/website.css"
     },
     "pluginsConfig": {
-        "editlink": {
-            "base": "https://github.com/drelaptop/cocos-docs/tree/gitbook/programmers-guide",
-            "label": "Edit This Page"
-        },
         "github-issue-feedback-language": {
-            "repo": "cocos-creator/creator-docs",
+            "repo": "drelaptop/cocos-docs",
             "branch": "gitbook"
-        },
-        "search": {
-            "maxIndexSize": 1000000000
-        },
-        "lunr": {
-            "maxIndexSize": 1000000000
         },
         "sharing": {
             "douban": false,
@@ -49,6 +39,13 @@
                 "facebook", "google", "twitter",
                 "weibo" 
             ]
-        }        
+        },
+        "edit-link": {
+            "base": "https://github.com/drelaptop/cocos-docs/tree/gitbook/programmers-guide",
+            "label":{
+                "en":"Edit This Page",
+                "zh-hans":"编辑本页"
+            }
+        }
     }    
 }
