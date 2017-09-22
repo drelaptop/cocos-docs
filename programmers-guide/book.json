@@ -6,12 +6,17 @@
         "search-title",
         "anchorjs",
         "toggle-chapters",
-        "sharing"        
+        "sharing",
+        "editlink"        
     ],
     "styles": {
         "website": "./styles/website.css"
-    },  
+    },
     "pluginsConfig": {
+        "editlink": {
+            "base": "https://github.com/drelaptop/cocos-docs/tree/gitbook/programmers-guide",
+            "label": "Edit This Page"
+        },
         "github-issue-feedback-language": {
             "repo": "cocos-creator/creator-docs",
             "branch": "gitbook"
