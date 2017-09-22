@@ -1,4 +1,4 @@
-# 参考 来自creator文档 zh
+# Cocos Creator User Manual
 
 ## Requirements
 
