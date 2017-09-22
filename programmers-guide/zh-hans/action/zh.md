@@ -259,3 +259,5 @@ Speed虽然能改变动作的速度，但是只能按比例改变速度，Action
 	auto sineIn = EaseSineIn::create(action);
 	sprite->runAction(sineIn);
 ```
+
+Test Commit		
