@@ -1,39 +1,39 @@
-# Cocos2d-x v1.6.x 用户手册
+# 关于我们
 
-欢迎使用 Cocos Creator 用户手册！本手册包括详尽的使用说明、面向不同职能用户的工作流程和 step by step 的新手教程。能够帮您快速掌握使用 Cocos Creator 开发跨平台游戏的方法。
+我们立志创造一个世界顶级的开源项目
 
-## 特别推荐
+关于我们
 
-Cocos Creator 现已支持导出场景和 UI 到 cocos2d-x 引擎，详细信息请参阅 [C++/Lua 引擎支持](advanced-topics/cpp-lua.md)。
+1. Cocos2d-x
+2. Cocos2d-html5
+3. 许可证
+4. 主要贡献者及维护者
+5. 财力支持者
 
-## 总导读
+# 1.Cocos2d-x
+ 
+![](./res/xlogo.png)
 
-- [Cocos Creator 入门](getting-started/index.md)
-- [资源工作流程](asset-workflow/index.md)
-- [场景制作工作流程](content-workflow/index.md)
-- [图像和渲染](render/index.md)
-- [UI 系统](ui/index.md)
-- [编程开发指南](scripting/index.md)
-- [动画系统](animation/index.md)
-- [碰撞系统](physics/collision/index.md)
-- [音乐和音效](audio/index.md)
-- [发布跨平台游戏](publish/index.md)
-- [扩展编辑器](extension/index.md)
-- [进阶主题](advanced-topics/index.md)
-- [第三方 SDK 集成](sdk/index.md)
+Cocos2d-x是MIT许可证下发布的开源游戏引擎，游戏开发快速,简易,功能强大。Cocos2d-x核心优势在于允许开发人员利用C++,Lua及Javascript来进行跨平台部署，覆盖平台包括iOS,Android,Windows Phone,黑莓（BlackBerry）及Tizen等等，省事省力省成本。
 
-## 视频教程
+Cocos2d-x用户不仅包括个人开发者和游戏开发爱好者，还包括许多知名大公司如Zynga,Wooga,Gamevil,Glu,GREE,Konami,TinyCo,HandyGames,IGG及Disney Mobile等。截止2013年9月，全球基于Cocos2d-x引擎的游戏下载量高达逾15亿，其中许多还占据苹果应用商店（AppStore）和谷歌应用商店（Google Play）排行榜。同时许多公司如触控,谷歌,微软,ARM,英特尔及黑莓的工程师在Cocos2d-x领域也非常活跃。
 
-前往[视频教程](video-tutorial/index.md)页面。
+# 2.Cocos2d-html5
 
-## 演示和范例项目
+![](./res/html5logo.png)
 
-注意，所有 Github 上的演示和范例项目都会跟随版本进行更新，默认分支对应目前最新的 Cocos Creator 版本，老版本的项目会以 `v0.7` 这样的分支名区分，分支名会和相同版本的 Cocos Creator 对应，下载使用的时候请注意。
+自2012年3月，[Cocos2d-html5](../../../wiki/cocos2d-js/zh.md)成为Cocos2d-x旗下分支游戏引擎，针对台式电脑,平板电脑及手机中支持HTML5的浏览器而设计。
 
-- [范例集合](https://github.com/cocos-creator/example-cases)：从基本的组件到交互输入，这个项目里包括了 case by case 的功能点用法介绍。
-- [Star Catcher](https://github.com/cocos-creator/tutorial-first-game)：也就是 [快速上手](getting-started/quick-start.md) 文档里分步讲解制作的游戏。
-- [腾讯合作开发的21点游戏](https://github.com/cocos-creator/tutorial-blackjack)
-- [UI 展示 Demo](https://github.com/cocos-creator/demo-ui)
-- [Duang Sheep](https://github.com/cocos-creator/tutorial-duang-sheep)：复制 FlappyBird 的简单游戏，不过主角换成了绵羊。
-- [暗黑斩 Cocos Creator 复刻版](https://github.com/cocos-creator/tutorial-dark-slash)：由 Veewo Games 独家授权原版暗黑斩资源素材，在 Cocos Creator 里复刻的演示项目
-- [i18n 游戏多语言支持范例](https://github.com/nantas/demo-i18n)
+# 3.许可证
+
+上述所有分支游戏引擎均是**MIT**许可证下发布的。
+
+利用cocos2d系列框架，我们可以容易地在iOS, Android, Windows Phone 8, BlackBerry（黑莓）, Marmalade, WindowsXP/Windows7, Linux, Mac OSX, Windows8 Metro 及Native Client (NaCl)上创建游戏或将游戏导入其中。详情请参见[支持平台](../../../wiki/supported-platforms-and-programming-languages/zh.md)。
+
+# 4.主要贡献者及维护者
+
+![](./res/contructors.png)
+ 
+# 5.财力支持
+
+目前，Cocos2d-x, Cocos2d-html5及CocoStudio由触控科技提供财力支持。欲了解更多有关触控科技公司的信息请点击[chukong-inc.com](http://www.chukong-inc.com)

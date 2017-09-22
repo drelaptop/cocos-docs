@@ -1,33 +1,39 @@
-# Cocos2d-x v1.6.x User Manual
+# 关于我们
 
-Welcome to the Cocos Creator User Manual! Cocos Creator is a free, cross-platform,
-game development tool based on Cocos2d-x. This is a comprehensive and detailed guide
-to help you get started with designing and developing games. 
+我们立志创造一个世界顶级的开源项目
 
-## Index
+关于我们
 
-- [Getting Started](getting-started/index.md)
-- [Asset Workflow](asset-workflow/index.md)
-- [Scene Creation Workflow](content-workflow/index.md)
-- [Renderer and Graphics](render/index.md)
-- [UI](ui/index.md)
-- [Scripting](scripting/index.md)
-- [Animation](animation/index.md)
-- [Physics](physics/index.md)
-- [Audio](audio/index.md)
-- [Publishing](publish/index.md)
-- [Editor Extension](extension/index.md)
-- [Advanced Topics](advanced-topics/index.md)
-- [SDK Integration](sdk/index.md)
+1. Cocos2d-x
+2. Cocos2d-html5
+3. 许可证
+4. 主要贡献者及维护者
+5. 财力支持者
 
-## Example Projects
+# 1.Cocos2d-x
+ 
+![](./res/xlogo.png)
 
-Please pay attention that demo projects may have different branches for different Cocos Creator version, for example `v1.0` branch should work with Creator v1.0.
+Cocos2d-x是MIT许可证下发布的开源游戏引擎，游戏开发快速,简易,功能强大。Cocos2d-x核心优势在于允许开发人员利用C++,Lua及Javascript来进行跨平台部署，覆盖平台包括iOS,Android,Windows Phone,黑莓（BlackBerry）及Tizen等等，省事省力省成本。
 
-- [Example Collections](https://github.com/cocos-creator/example-cases): You can also get access to it by creating a new project using that template. It's a case by case introduction of most Cocos Creator components and features.
-- [Your first Cocos Creator game: Star Catcher](https://github.com/cocos-creator/tutorial-first-game)，please read [Quick Start Tutorial](getting-started/quick-start.md) to build it step by step!
-- [Blackjack Demo co-developed with Tencent Games](https://github.com/cocos-creator/tutorial-blackjack)
-- [UI Demo](https://github.com/cocos-creator/demo-ui)
-- [Duang Sheep](https://github.com/cocos-creator/tutorial-duang-sheep): A Flappy Bird clone featuring a sheep!
-- [Dark Slash](https://github.com/cocos-creator/tutorial-dark-slash): Original Dark Slash resources authorized by Veewo Games to recreate Dark Slash in Cocos Creator as a demo.
-- [i18n Multi-language demo](https://github.com/nantas/demo-i18n)
+Cocos2d-x用户不仅包括个人开发者和游戏开发爱好者，还包括许多知名大公司如Zynga,Wooga,Gamevil,Glu,GREE,Konami,TinyCo,HandyGames,IGG及Disney Mobile等。截止2013年9月，全球基于Cocos2d-x引擎的游戏下载量高达逾15亿，其中许多还占据苹果应用商店（AppStore）和谷歌应用商店（Google Play）排行榜。同时许多公司如触控,谷歌,微软,ARM,英特尔及黑莓的工程师在Cocos2d-x领域也非常活跃。
+
+# 2.Cocos2d-html5
+
+![](./res/html5logo.png)
+
+自2012年3月，[Cocos2d-html5](../../../wiki/cocos2d-js/zh.md)成为Cocos2d-x旗下分支游戏引擎，针对台式电脑,平板电脑及手机中支持HTML5的浏览器而设计。
+
+# 3.许可证
+
+上述所有分支游戏引擎均是**MIT**许可证下发布的。
+
+利用cocos2d系列框架，我们可以容易地在iOS, Android, Windows Phone 8, BlackBerry（黑莓）, Marmalade, WindowsXP/Windows7, Linux, Mac OSX, Windows8 Metro 及Native Client (NaCl)上创建游戏或将游戏导入其中。详情请参见[支持平台](../../../wiki/supported-platforms-and-programming-languages/zh.md)。
+
+# 4.主要贡献者及维护者
+
+![](./res/contructors.png)
+ 
+# 5.财力支持
+
+目前，Cocos2d-x, Cocos2d-html5及CocoStudio由触控科技提供财力支持。欲了解更多有关触控科技公司的信息请点击[chukong-inc.com](http://www.chukong-inc.com)
