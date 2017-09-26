@@ -7,7 +7,8 @@
         "anchorjs",
         "toggle-chapters",
         "sharing",
-        "edit-link"     
+        "edit-link",
+        "components"     
     ],
     "styles": {
         "website": "./styles/website.css"
@@ -46,6 +47,21 @@
                 "en":"Edit This Page",
                 "zh-hans":"编辑本页"
             }
+        },
+        "components": {
+            "templatePath": "docs/components",
+            "templates": [
+              {
+                "name": "header",
+                "target": "body",
+                "prepend": "true"
+              },
+              {
+                "name": "footer",
+                "target": "section",
+                "prepend": "false"
+              }
+            ]
         }
     }    
 }
