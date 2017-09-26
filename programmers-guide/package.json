@@ -4,6 +4,7 @@
   "description": "Documentation ===============",
   "main": "index.js",
   "dependencies": {
+    "gitment": "0.0.3"
   },
   "devDependencies": {},
   "scripts": {

@@ -7,7 +7,6 @@
         "anchorjs",
         "toggle-chapters",
         "sharing",
-        "edit-link",
         "components"     
     ],
     "styles": {
@@ -40,13 +39,6 @@
                 "facebook", "google", "twitter",
                 "weibo" 
             ]
-        },
-        "edit-link": {
-            "base": "https://github.com/drelaptop/cocos-docs/tree/gitbook/programmers-guide",
-            "label":{
-                "en":"Edit This Page",
-                "zh-hans":"编辑本页"
-            }
         },
         "components": {
             "templatePath": "docs/components",
